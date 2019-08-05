@@ -23,6 +23,35 @@ header h1 {
 }
 
 header h2 {
-  margin:
   font-size: 1.6em;
+}
+
+.content {
+  margin-left: 15px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.disclaimer {
+  font-size: 1.1em;
+  text-align: center;
+}
+
+.content {
+  margin-top: 65px;
+  margin-left: 20px;
+}
+
+a:link,
+a:visited {
+  color: rgb(50, 50, 255);
+  text-decoration: none;
+  transition-duration: 0.15s;
+}
+
+a:hover,
+a:active {
+  color: rgb(0, 0, 155);
 }
