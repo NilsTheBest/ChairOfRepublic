@@ -1,4 +1,28 @@
 body {
-  background-color: #e8ffee;
+  background-color: rgb(235, 255, 235);
   font-family: arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  background-color: rgb(175, 240, 175);
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.header-2 {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  background-color: rgb(165, 230, 165);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 3.5em;
+}
+
+header h2 {
+  margin:
+  font-size: 1.6em;
 }
