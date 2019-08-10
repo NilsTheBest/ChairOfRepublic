@@ -11,13 +11,14 @@ body {
 .navbar {
   width: 100%;
   height: 70px;
-  background-color: rgb(210, 230, 245);
+  background-color: rgb(200, 240, 200);
 }
 
 .nav-button {
   float: left;
   text-decoration: none;
-  background-color: rgb();
+  background-color: rgb(200, 240, 200);
+  color: rgb(20, 20, 20);
   transition-duration: 0.4s;
   height: 50px;
   padding-top: 20px;
@@ -28,7 +29,7 @@ body {
 }
 
 .nav-button:hover {
-  background-color: rgb();
+  background-color: rgb(190, 230, 190);
 }
 
 h1 {
@@ -45,14 +46,14 @@ p.disclaimer {
   margin-left: 20px;
 }
 
-a:link,
-a:visited {
+.link a:link,
+.link a:visited {
   color: rgb(50, 50, 255);
   text-decoration: none;
   transition-duration: 0.15s;
 }
 
-a:hover,
-a:active {
+.link a:hover,
+.link a:active {
   color: rgb(0, 0, 155);
 }
