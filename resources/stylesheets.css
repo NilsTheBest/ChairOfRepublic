@@ -46,14 +46,14 @@ p.disclaimer {
   margin-left: 20px;
 }
 
-.link a:link,
-.link a:visited {
+.link:link,
+.link:visited {
   color: rgb(50, 50, 255);
   text-decoration: none;
   transition-duration: 0.15s;
 }
 
-.link a:hover,
-.link a:active {
+.link:hover,
+.link:active {
   color: rgb(0, 0, 155);
 }
