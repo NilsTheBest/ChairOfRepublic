@@ -57,3 +57,9 @@ p.disclaimer {
 .link:active {
   color: rgb(0, 0, 155);
 }
+
+p .last-updated {
+  font-size: 0.8em;
+  font-style: italic;
+  margin-top: 5px;
+}
