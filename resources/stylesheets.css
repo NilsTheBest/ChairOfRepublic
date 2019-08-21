@@ -59,7 +59,8 @@ p.disclaimer {
 }
 
 p .last-updated {
-  font-size: 0.8em;
+  font-size: 0.7em;
   font-style: italic;
-  margin-top: 5px;
+  color: #a0a0a0;
+  margin-top: 30px;
 }
