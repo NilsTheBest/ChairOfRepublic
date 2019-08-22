@@ -28,6 +28,16 @@ body {
   font-size: 18px;
 }
 
+.footer {
+  background-color: rgb(200, 240, 200);
+  color: rgb(20, 20, 20);
+  text-align: center;
+}
+
+.useful-links {
+  color: rgb(40, 40, 40);
+}
+
 .nav-button:hover {
   background-color: rgb(190, 230, 190);
 }
