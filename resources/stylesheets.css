@@ -29,6 +29,9 @@ body {
 }
 
 .footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
   background-color: rgb(200, 240, 200);
   color: rgb(20, 20, 20);
   text-align: center;
