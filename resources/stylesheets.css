@@ -29,12 +29,11 @@ body {
 }
 
 .footer {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-top: 20px;
+  margin-top: 10px;
   background-color: rgb(200, 240, 200);
   color: rgb(20, 20, 20);
   text-align: center;
+  overflow: hidden;
 }
 
 .useful-links {
@@ -49,7 +48,7 @@ h1 {
   text-align: center;
 }
 
-p.disclaimer {
+.disclaimer {
   font-size: 1.1em;
   text-align: center;
 }
@@ -71,7 +70,7 @@ p.disclaimer {
   color: rgb(0, 0, 155);
 }
 
-p .last-updated {
+.last-updated {
   font-size: 0.7em;
   font-style: italic;
   color: #a0a0a0;
