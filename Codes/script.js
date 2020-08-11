@@ -10,7 +10,7 @@ function sendMessage() {
   var params = {
     username: username,
     avatar_url: "",
-    content: message_content
+    content: "``".concat(message_content.concat("``"))
   };
   request.send(JSON.stringify(params));
   alert("Message Sent!")
