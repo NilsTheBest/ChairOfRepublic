@@ -1,9 +1,11 @@
 body {
   text-align: center;
 }
-div {
+
+.form {
   color: rgb(211,211,211);
 }
-.button {
+
+.submitButton {
   padding: 15px 32px;
 }
