@@ -4,3 +4,6 @@ body {
 div {
   color: rgb(211,211,211);
 }
+.button {
+  padding: 15px 32px;
+}
