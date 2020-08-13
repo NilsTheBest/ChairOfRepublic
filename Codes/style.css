@@ -3,9 +3,11 @@ body {
 }
 
 .form {
+  text-align: center;
   background: WhiteSmoke;
   width: 300px;
   hight: 300px;
+  border: 5px solid black; border-radius:10px;
 }
 
 .submitButton {
