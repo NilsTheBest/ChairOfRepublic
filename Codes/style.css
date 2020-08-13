@@ -4,6 +4,8 @@ body {
 
 .form {
   background: WhiteSmoke;
+  width: 300px;
+  hight: 300px;
 }
 
 .submitButton {
