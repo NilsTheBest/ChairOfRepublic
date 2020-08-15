@@ -1,6 +1,7 @@
 body {
   text-align: center;
   font-family: Arial, sans-serif;
+  background-image: linear-gradient(WhiteSmoke, White);
 }
 
 .form {
