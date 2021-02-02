@@ -1,5 +1,6 @@
 # Chair of Republic
 A website for the Chair of Republic.
+<br>
 https://NilsTheBest.github.io/ChairOfRepublic/
 <br>
 <br>
