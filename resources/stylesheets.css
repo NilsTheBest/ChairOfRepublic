@@ -30,6 +30,20 @@ body {
   font-size: 18px;
 }
 
+.nav-button-blank {
+  float: left;
+  text-decoration: none;
+  background-color: rgb(220, 222, 220);
+  color: rgb(20, 20, 20);
+  transition-duration: 0.4s;
+  height: 50px;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  font-size: 18px;
+}
+
 .footer {
   margin-top: 10px;
   background-color: rgb(200, 240, 200);
