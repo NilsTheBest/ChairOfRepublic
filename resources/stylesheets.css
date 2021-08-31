@@ -33,7 +33,7 @@ body {
 .nav-button-blank {
   float: left;
   text-decoration: none;
-  background-color: rgb(220, 222, 220);
+  background-color: rgb(220, 240, 220);
   color: rgb(20, 20, 20);
   transition-duration: 0.4s;
   height: 50px;
